@@ -8,7 +8,7 @@
 <p>
   Olá👋, sou o Ramon! estudante apaixonado em desenvolver aplicações usando a linguagem Java.
 
-  - 🌱 Atualmente, estou estudando Java para uma carreira backend, em busca da minha primeira oportunidade profissional <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 Atualmente, estou estudando Java para uma carreira backend, em busca da minha primeira oportunidade profissional 
 
 </p>
 
