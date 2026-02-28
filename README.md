@@ -16,7 +16,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 Desenvolvedor de Software com foco em Java, buscando a primeira oportunidade na área. Sou uma pessoa proativa, comprometida e pontual. Atualmente sou estudante da Fullstackclub.
+  - 💬 Desenvolvedor de Software com foco em Java, buscando a primeira oportunidade na área. Sou uma pessoa proativa, comprometida e pontual. Atualmente sou estudante Engenharia de software.
 
 </details>
 
