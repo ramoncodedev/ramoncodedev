@@ -38,6 +38,11 @@ API robusta para agendamento em barbearias com sistema de autenticação e contr
 - **Tech Stack:** Java 21, Spring Boot 3.5, JWT, PostgreSQL.
 - **Destaque:** Foco em segurança e performance de endpoints.
 
+#### 📈 [SalesFlow - CRM Empresarial](https://github.com/ramoncodedev)
+Sistema de gestão de vendas focado no acompanhamento de metas e performance de vendedores.
+- **Destaque:** Desenvolvido com **arquitetura desacoplada** para facilitar a manutenção e evolução do sistema.
+- **Tech Stack:** Java, Spring Boot, PostgreSQL, Flyway.
+
 ---
 
 ### 📫 Vamos nos conectar?
