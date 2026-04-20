@@ -32,21 +32,11 @@ Sou um **Backend Software Developer** focado no ecossistema Java. Atualmente, de
 
 ---
 
-### 📂 Projetos em Destaque
-
-#### 🏥 [MedX - Ecossistema de Gestão Clínica](https://github.com/ramoncodedev)
-Um ecossistema completo para gestão de clínicas que integra CRM, automação via agentes de IA e criação de landing pages otimizadas.
-- **Tech Stack:** Java, Spring Boot, PostgreSQL, AI Integration.
-- **Destaque:** Implementação de Clean Architecture para garantir manutenibilidade e escalabilidade.
 
 #### ✂️ [aparaFlow - API de Agendamento](https://github.com/ramoncodedev)
 API robusta para agendamento em barbearias com sistema de autenticação e controle de acesso (RBAC).
 - **Tech Stack:** Java 21, Spring Boot 3.5, JWT, PostgreSQL.
 - **Destaque:** Foco em segurança e performance de endpoints.
-
-#### 🚗 [AutoShop - Venda de Veículos](https://github.com/ramoncodedev)
-Plataforma completa de vendas de veículos construída passo a passo no meu canal do YouTube.
-- **Tech Stack:** Spring Boot, React, Tailwind CSS.
 
 ---
 
