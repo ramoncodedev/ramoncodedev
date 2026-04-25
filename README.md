@@ -13,7 +13,6 @@ Sou um **Backend Software Developer** focado no ecossistema Java. Atualmente, de
 - 🔭 Atualmente trabalhando no ecossistema **MedX** (CRM + Agentes de IA para clínicas).
 - 🏗️ Especialista em **Arquitetura Limpa (Clean Architecture)** e **Hexagonal Architecture**.
 - 🎓 Cursando Engenharia de Software na Estácio.
-- 📺 Criando conteúdo técnico no YouTube sobre desenvolvimento de software.
 
 ---
 
