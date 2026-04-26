@@ -8,9 +8,9 @@
 ---
 
 ### 🚀 Sobre Mim
-Sou um **Backend Software Developer** focado no ecossistema Java. Atualmente, dedico-me à construção de sistemas robustos, escaláveis e bem arquitetados, com foco especial em soluções **SaaS para o setor de saúde**.
+Sou um **Backend Software Developer** focado no ecossistema Java. Atualmente, dedico-me à construção de sistemas robustos, escaláveis e bem arquitetados.
 
-- 🔭 Atualmente trabalhando no ecossistema **MedX** (CRM + Agentes de IA para clínicas).
+- 🔭 Atualmente Construindo um SaaS Multitenant de Delivery com Clean Architecture, Spring Boot e integração AbacatePay.".
 - 🏗️ Especialista em **Arquitetura Limpa (Clean Architecture)** e **Hexagonal Architecture**.
 - 🎓 Cursando Engenharia de Software na Estácio.
 
@@ -24,13 +24,7 @@ Sou um **Backend Software Developer** focado no ecossistema Java. Atualmente, de
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-**Frontend & UI**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-
 ---
-
 
 #### ✂️ [aparaFlow - API de Agendamento](https://github.com/ramoncodedev)
 API robusta para agendamento em barbearias com sistema de autenticação e controle de acesso (RBAC).
