@@ -10,7 +10,7 @@
 ### 🚀 Sobre Mim
 Sou um **Backend Software Developer** focado no ecossistema Java. Atualmente, dedico-me à construção de sistemas robustos, escaláveis e bem arquitetados.
 
-- 🔭 Atualmente Construindo um SaaS Multitenant de Delivery com Clean Architecture, Spring Boot e integração AbacatePay.".
+- 🔭 Atualmente Construindo um SaaS Multitenant de Delivery com Clean Architecture e Spring Boot.".
 - 🏗️ Especialista em **Arquitetura Limpa (Clean Architecture)** e **Hexagonal Architecture**.
 - 🎓 Cursando Engenharia de Software na Estácio.
 
